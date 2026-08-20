@@ -1,0 +1,501 @@
+user,time,device,action,commands,t,d,a,c
+user_1,18:43,DEV-9406,rename,ipconfig;net user,0,1,1,2
+user_2,23:28,Laptop-001,delete,sc query;net user,1,0,1,2
+user_3,04:00,DEV-7826,rename,,1,1,1,0
+user_4,15:51,Laptop-001,rename,sc query,0,0,1,1
+user_5,07:34,PC-5678,delete,cmd.exe,0,0,1,1
+user_6,08:47,PC-1234,rename,,0,0,1,0
+user_7,15:53,PC-5678,rename,,0,0,1,0
+user_8,03:37,PC-5678,copy,schtasks;cmd.exe,1,0,1,2
+user_9,05:43,DEV-5425,rename,,1,1,1,0
+user_10,02:36,DEV-6717,delete,,1,1,1,0
+user_11,09:08,DEV-5108,read,,0,1,0,0
+user_12,18:57,DEV-4698,read,sc query,0,1,0,1
+user_13,19:04,Laptop-001,rename,,0,0,1,0
+user_14,11:36,PC-1234,rename,,0,0,1,0
+user_15,14:52,Laptop-001,copy,,0,0,1,0
+user_16,19:50,DEV-1615,rename,cmd.exe,0,1,1,1
+user_17,02:18,DEV-4606,read,sc query,1,1,0,1
+user_18,02:55,DEV-2722,read,,1,1,0,0
+user_19,07:43,PC-5678,rename,,0,0,1,0
+user_20,07:43,DEV-6574,copy,sc query;whoami,0,1,1,2
+user_21,18:40,PC-1234,delete,,0,0,1,0
+user_22,16:56,PC-5678,read,,0,0,0,0
+user_23,05:00,PC-1234,rename,,1,0,1,0
+user_24,11:42,Laptop-001,delete,whoami;net user,0,0,1,2
+user_25,06:08,DEV-7620,rename,,0,1,1,0
+user_26,01:38,DEV-9655,delete,,1,1,1,0
+user_27,22:57,PC-5678,delete,whoami,1,0,1,1
+user_28,14:14,Laptop-001,rename,whoami;cmd.exe,0,0,1,2
+user_29,13:11,PC-5678,rename,,0,0,1,0
+user_30,04:19,PC-5678,read,,1,0,0,0
+user_31,15:32,PC-1234,copy,,0,0,1,0
+user_32,09:40,PC-1234,rename,,0,0,1,0
+user_33,20:58,PC-1234,rename,,0,0,1,0
+user_34,22:28,Laptop-001,write,,1,0,1,0
+user_35,17:39,Laptop-001,read,,0,0,0,0
+user_36,21:23,DEV-2998,read,,0,1,0,0
+user_37,04:39,DEV-2811,rename,,1,1,1,0
+user_38,05:37,Laptop-001,copy,,1,0,1,0
+user_39,23:33,DEV-7850,copy,,1,1,1,0
+user_40,10:14,PC-5678,rename,,0,0,1,0
+user_41,08:47,DEV-5898,rename,,0,1,1,0
+user_42,07:35,Laptop-001,delete,ipconfig,0,0,1,1
+user_43,23:15,Laptop-001,delete,net user;sc query,1,0,1,2
+user_44,04:36,Laptop-001,rename,,1,0,1,0
+user_45,15:32,PC-1234,write,schtasks;whoami,0,0,1,2
+user_46,19:54,PC-1234,write,,0,0,1,0
+user_47,13:19,PC-1234,delete,,0,0,1,0
+user_48,23:26,Laptop-001,write,,1,0,1,0
+user_49,07:09,DEV-4189,delete,sc query,0,1,1,1
+user_50,06:13,Laptop-001,rename,,0,0,1,0
+user_51,02:56,PC-1234,copy,sc query;whoami,1,0,1,2
+user_52,17:41,DEV-5952,write,,0,1,1,0
+user_53,13:26,PC-1234,read,,0,0,0,0
+user_54,10:21,PC-5678,rename,ipconfig;cmd.exe,0,0,1,2
+user_55,22:56,Laptop-001,rename,sc query;schtasks,1,0,1,2
+user_56,17:04,DEV-9117,read,,0,1,0,0
+user_57,00:57,Laptop-001,copy,,1,0,1,0
+user_58,23:10,Laptop-001,rename,,1,0,1,0
+user_59,11:53,Laptop-001,copy,schtasks,0,0,1,1
+user_60,00:10,PC-1234,read,,1,0,0,0
+user_61,12:56,PC-5678,write,ipconfig;powershell.exe,0,0,1,2
+user_62,21:31,PC-5678,rename,,0,0,1,0
+user_63,20:00,DEV-5824,write,sc query,0,1,1,1
+user_64,13:16,Laptop-001,write,,0,0,1,0
+user_65,04:56,Laptop-001,copy,ipconfig,1,0,1,1
+user_66,10:48,DEV-8210,copy,,0,1,1,0
+user_67,01:32,DEV-4026,copy,,1,1,1,0
+user_68,08:45,Laptop-001,copy,,0,0,1,0
+user_69,23:04,DEV-9777,rename,,1,1,1,0
+user_70,20:10,PC-5678,delete,,0,0,1,0
+user_71,18:28,PC-1234,write,schtasks;sc query,0,0,1,2
+user_72,16:32,PC-5678,read,,0,0,0,0
+user_73,20:10,DEV-5797,rename,,0,1,1,0
+user_74,13:30,PC-1234,delete,,0,0,1,0
+user_75,18:33,PC-1234,copy,,0,0,1,0
+user_76,10:26,PC-1234,read,,0,0,0,0
+user_77,01:36,DEV-2115,read,,1,1,0,0
+user_78,04:49,DEV-1505,delete,,1,1,1,0
+user_79,21:59,PC-5678,write,,0,0,1,0
+user_80,15:47,PC-1234,write,,0,0,1,0
+user_81,10:39,DEV-9134,copy,whoami,0,1,1,1
+user_82,22:37,PC-1234,rename,powershell.exe,1,0,1,1
+user_83,18:24,PC-1234,write,schtasks,0,0,1,1
+user_84,06:16,Laptop-001,write,,0,0,1,0
+user_85,11:48,PC-1234,read,,0,0,0,0
+user_86,05:21,DEV-8750,read,,1,1,0,0
+user_87,09:44,PC-1234,write,,0,0,1,0
+user_88,13:47,PC-5678,read,schtasks,0,0,0,1
+user_89,17:53,Laptop-001,read,,0,0,0,0
+user_90,11:43,DEV-1082,read,sc query;cmd.exe,0,1,0,2
+user_91,09:52,DEV-1322,delete,,0,1,1,0
+user_92,20:12,Laptop-001,read,,0,0,0,0
+user_93,08:30,Laptop-001,rename,sc query;ipconfig,0,0,1,2
+user_94,16:04,PC-5678,delete,,0,0,1,0
+user_95,15:20,PC-1234,rename,schtasks,0,0,1,1
+user_96,21:19,DEV-1886,copy,,0,1,1,0
+user_97,22:43,DEV-6283,copy,schtasks;cmd.exe,1,1,1,2
+user_98,19:30,DEV-8884,copy,,0,1,1,0
+user_99,09:11,PC-1234,delete,,0,0,1,0
+user_100,07:10,DEV-2697,read,powershell.exe;schtasks,0,1,0,2
+user_101,08:48,PC-1234,read,,0,0,0,0
+user_102,06:07,PC-1234,write,sc query;powershell.exe,0,0,1,2
+user_103,02:51,PC-5678,delete,,1,0,1,0
+user_104,13:53,PC-5678,rename,,0,0,1,0
+user_105,20:18,PC-5678,read,,0,0,0,0
+user_106,18:29,DEV-9135,copy,powershell.exe;cmd.exe,0,1,1,2
+user_107,09:16,DEV-9026,delete,,0,1,1,0
+user_108,09:54,PC-5678,write,,0,0,1,0
+user_109,18:47,PC-1234,delete,,0,0,1,0
+user_110,14:27,PC-1234,copy,,0,0,1,0
+user_111,18:15,DEV-6034,write,,0,1,1,0
+user_112,10:38,Laptop-001,rename,,0,0,1,0
+user_113,15:18,PC-5678,write,,0,0,1,0
+user_114,05:39,Laptop-001,rename,,1,0,1,0
+user_115,12:31,DEV-3132,rename,,0,1,1,0
+user_116,00:37,PC-1234,rename,,1,0,1,0
+user_117,03:10,Laptop-001,write,net user;powershell.exe,1,0,1,2
+user_118,10:17,DEV-9949,delete,,0,1,1,0
+user_119,00:15,Laptop-001,rename,,1,0,1,0
+user_120,20:29,PC-1234,copy,ipconfig;sc query,0,0,1,2
+user_121,15:55,Laptop-001,rename,ipconfig;sc query,0,0,1,2
+user_122,00:07,Laptop-001,copy,,1,0,1,0
+user_123,13:12,PC-1234,rename,,0,0,1,0
+user_124,22:30,Laptop-001,delete,,1,0,1,0
+user_125,00:18,Laptop-001,rename,,1,0,1,0
+user_126,19:07,PC-5678,write,,0,0,1,0
+user_127,03:25,PC-1234,delete,net user;cmd.exe,1,0,1,2
+user_128,04:17,PC-5678,copy,,1,0,1,0
+user_129,20:58,DEV-6867,copy,sc query,0,1,1,1
+user_130,21:57,PC-5678,delete,,0,0,1,0
+user_131,13:39,PC-5678,write,whoami,0,0,1,1
+user_132,10:53,PC-1234,write,,0,0,1,0
+user_133,17:43,DEV-9858,copy,cmd.exe;sc query,0,1,1,2
+user_134,11:33,PC-1234,read,,0,0,0,0
+user_135,09:11,PC-5678,read,,0,0,0,0
+user_136,04:36,PC-1234,rename,,1,0,1,0
+user_137,07:04,DEV-9497,delete,,0,1,1,0
+user_138,05:07,PC-1234,read,,1,0,0,0
+user_139,09:58,Laptop-001,copy,,0,0,1,0
+user_140,04:29,PC-1234,copy,,1,0,1,0
+user_141,23:48,Laptop-001,delete,,1,0,1,0
+user_142,00:42,PC-5678,delete,whoami;net user,1,0,1,2
+user_143,17:56,Laptop-001,delete,,0,0,1,0
+user_144,18:58,DEV-8780,delete,,0,1,1,0
+user_145,14:50,DEV-8107,write,ipconfig;schtasks,0,1,1,2
+user_146,06:48,PC-5678,delete,whoami;net user,0,0,1,2
+user_147,03:05,DEV-1966,copy,cmd.exe,1,1,1,1
+user_148,10:15,DEV-1581,copy,,0,1,1,0
+user_149,00:58,DEV-2972,write,,1,1,1,0
+user_150,08:30,Laptop-001,copy,ipconfig,0,0,1,1
+user_151,14:38,PC-1234,copy,whoami,0,0,1,1
+user_152,01:41,PC-5678,rename,schtasks;ipconfig,1,0,1,2
+user_153,22:43,DEV-1395,read,,1,1,0,0
+user_154,23:58,PC-1234,delete,,1,0,1,0
+user_155,03:01,PC-1234,delete,powershell.exe,1,0,1,1
+user_156,21:54,PC-5678,copy,sc query,0,0,1,1
+user_157,15:12,DEV-3035,read,powershell.exe,0,1,0,1
+user_158,15:59,DEV-6744,rename,cmd.exe;net user,0,1,1,2
+user_159,13:55,Laptop-001,copy,powershell.exe,0,0,1,1
+user_160,20:39,Laptop-001,rename,net user;sc query,0,0,1,2
+user_161,02:24,DEV-5374,write,,1,1,1,0
+user_162,08:48,Laptop-001,rename,,0,0,1,0
+user_163,15:27,DEV-4735,read,,0,1,0,0
+user_164,02:24,Laptop-001,write,,1,0,1,0
+user_165,14:10,PC-1234,write,,0,0,1,0
+user_166,08:49,DEV-9564,read,,0,1,0,0
+user_167,09:50,PC-1234,copy,,0,0,1,0
+user_168,17:49,PC-1234,read,net user;cmd.exe,0,0,0,2
+user_169,09:19,Laptop-001,delete,,0,0,1,0
+user_170,19:17,DEV-4736,delete,ipconfig;sc query,0,1,1,2
+user_171,13:33,PC-1234,write,,0,0,1,0
+user_172,01:51,DEV-8686,copy,,1,1,1,0
+user_173,09:48,PC-5678,delete,schtasks;whoami,0,0,1,2
+user_174,23:37,PC-1234,delete,,1,0,1,0
+user_175,06:28,PC-1234,rename,,0,0,1,0
+user_176,20:02,Laptop-001,delete,,0,0,1,0
+user_177,15:20,PC-1234,read,,0,0,0,0
+user_178,02:14,DEV-2062,read,,1,1,0,0
+user_179,16:10,DEV-9682,copy,,0,1,1,0
+user_180,12:35,Laptop-001,read,net user;schtasks,0,0,0,2
+user_181,22:30,DEV-2531,write,powershell.exe;whoami,1,1,1,2
+user_182,10:02,PC-5678,read,,0,0,0,0
+user_183,18:10,PC-1234,delete,,0,0,1,0
+user_184,20:46,DEV-7252,read,schtasks,0,1,0,1
+user_185,03:08,PC-5678,delete,net user,1,0,1,1
+user_186,06:56,PC-5678,rename,,0,0,1,0
+user_187,07:58,PC-1234,write,,0,0,1,0
+user_188,08:59,PC-5678,rename,,0,0,1,0
+user_189,07:06,Laptop-001,rename,,0,0,1,0
+user_190,06:32,DEV-4195,rename,,0,1,1,0
+user_191,02:49,PC-5678,write,,1,0,1,0
+user_192,12:23,PC-5678,rename,,0,0,1,0
+user_193,14:32,DEV-4390,delete,,0,1,1,0
+user_194,19:00,DEV-4457,read,,0,1,0,0
+user_195,16:30,Laptop-001,copy,,0,0,1,0
+user_196,08:35,DEV-6127,write,,0,1,1,0
+user_197,16:45,DEV-6391,delete,,0,1,1,0
+user_198,15:56,PC-1234,write,,0,0,1,0
+user_199,02:30,Laptop-001,write,,1,0,1,0
+user_200,00:00,PC-5678,delete,powershell.exe,1,0,1,1
+user_201,14:55,PC-1234,write,,0,0,1,0
+user_202,14:07,Laptop-001,delete,ipconfig;cmd.exe,0,0,1,2
+user_203,03:45,DEV-9926,read,,1,1,0,0
+user_204,09:27,DEV-4842,rename,,0,1,1,0
+user_205,11:51,PC-1234,rename,schtasks,0,0,1,1
+user_206,01:04,PC-5678,delete,,1,0,1,0
+user_207,11:07,PC-1234,rename,,0,0,1,0
+user_208,00:39,PC-5678,rename,,1,0,1,0
+user_209,08:54,Laptop-001,read,,0,0,0,0
+user_210,09:19,PC-1234,delete,net user,0,0,1,1
+user_211,00:07,DEV-8770,read,,1,1,0,0
+user_212,23:43,DEV-6564,read,,1,1,0,0
+user_213,01:13,PC-5678,copy,cmd.exe,1,0,1,1
+user_214,09:32,PC-1234,copy,,0,0,1,0
+user_215,21:28,DEV-7923,read,ipconfig,0,1,0,1
+user_216,18:22,Laptop-001,read,,0,0,0,0
+user_217,09:47,DEV-9899,write,whoami;sc query,0,1,1,2
+user_218,20:09,DEV-3880,rename,,0,1,1,0
+user_219,19:49,Laptop-001,copy,,0,0,1,0
+user_220,14:16,DEV-8724,read,powershell.exe,0,1,0,1
+user_221,02:36,DEV-4693,copy,,1,1,1,0
+user_222,08:44,PC-1234,rename,ipconfig;whoami,0,0,1,2
+user_223,20:53,PC-1234,delete,,0,0,1,0
+user_224,22:32,Laptop-001,delete,,1,0,1,0
+user_225,21:03,DEV-4132,rename,,0,1,1,0
+user_226,05:36,DEV-4361,write,,1,1,1,0
+user_227,09:13,DEV-3034,rename,,0,1,1,0
+user_228,04:55,PC-1234,rename,schtasks,1,0,1,1
+user_229,10:15,Laptop-001,delete,,0,0,1,0
+user_230,15:27,DEV-8256,rename,,0,1,1,0
+user_231,03:54,PC-5678,delete,cmd.exe;powershell.exe,1,0,1,2
+user_232,07:31,DEV-1957,rename,schtasks;powershell.exe,0,1,1,2
+user_233,09:28,DEV-4258,copy,cmd.exe,0,1,1,1
+user_234,11:46,PC-1234,rename,,0,0,1,0
+user_235,17:54,Laptop-001,delete,,0,0,1,0
+user_236,03:15,PC-5678,delete,,1,0,1,0
+user_237,22:05,Laptop-001,delete,,1,0,1,0
+user_238,23:40,DEV-2625,copy,,1,1,1,0
+user_239,10:33,PC-1234,copy,,0,0,1,0
+user_240,12:28,PC-1234,rename,cmd.exe;net user,0,0,1,2
+user_241,04:25,DEV-2916,read,,1,1,0,0
+user_242,02:36,Laptop-001,write,,1,0,1,0
+user_243,09:40,DEV-4432,write,,0,1,1,0
+user_244,22:43,Laptop-001,delete,,1,0,1,0
+user_245,20:16,PC-5678,read,,0,0,0,0
+user_246,01:35,DEV-4909,write,,1,1,1,0
+user_247,07:23,DEV-2379,rename,whoami,0,1,1,1
+user_248,13:13,DEV-8681,rename,whoami,0,1,1,1
+user_249,01:20,DEV-1617,rename,,1,1,1,0
+user_250,05:30,Laptop-001,copy,net user;sc query,1,0,1,2
+user_251,16:06,PC-1234,copy,schtasks;ipconfig,0,0,1,2
+user_252,17:17,DEV-2096,copy,,0,1,1,0
+user_253,12:19,PC-5678,copy,,0,0,1,0
+user_254,21:33,DEV-2960,write,,0,1,1,0
+user_255,21:19,DEV-1626,rename,,0,1,1,0
+user_256,18:17,DEV-1865,copy,,0,1,1,0
+user_257,15:43,PC-1234,write,,0,0,1,0
+user_258,01:36,PC-1234,delete,whoami;cmd.exe,1,0,1,2
+user_259,15:45,DEV-4387,write,,0,1,1,0
+user_260,07:34,PC-5678,write,,0,0,1,0
+user_261,05:27,DEV-4572,rename,,1,1,1,0
+user_262,01:20,PC-1234,write,,1,0,1,0
+user_263,19:57,DEV-7282,copy,,0,1,1,0
+user_264,02:19,DEV-1276,copy,,1,1,1,0
+user_265,15:44,Laptop-001,copy,,0,0,1,0
+user_266,14:46,Laptop-001,rename,,0,0,1,0
+user_267,20:11,PC-1234,delete,,0,0,1,0
+user_268,12:14,PC-1234,write,,0,0,1,0
+user_269,22:35,PC-1234,delete,,1,0,1,0
+user_270,19:57,Laptop-001,write,net user;sc query,0,0,1,2
+user_271,12:23,DEV-9744,rename,,0,1,1,0
+user_272,19:59,PC-1234,write,cmd.exe,0,0,1,1
+user_273,10:37,Laptop-001,rename,schtasks,0,0,1,1
+user_274,21:56,DEV-4814,copy,,0,1,1,0
+user_275,09:51,PC-5678,write,ipconfig,0,0,1,1
+user_276,16:44,DEV-9667,delete,ipconfig,0,1,1,1
+user_277,08:29,Laptop-001,write,,0,0,1,0
+user_278,17:55,DEV-8082,write,sc query;powershell.exe,0,1,1,2
+user_279,13:07,PC-1234,delete,,0,0,1,0
+user_280,20:25,DEV-3859,copy,,0,1,1,0
+user_281,08:13,DEV-5586,write,,0,1,1,0
+user_282,07:28,PC-5678,write,,0,0,1,0
+user_283,07:38,PC-1234,read,,0,0,0,0
+user_284,04:47,DEV-2435,rename,schtasks;ipconfig,1,1,1,2
+user_285,09:36,PC-1234,delete,,0,0,1,0
+user_286,05:55,DEV-4429,write,,1,1,1,0
+user_287,14:53,DEV-5399,copy,ipconfig,0,1,1,1
+user_288,05:10,DEV-2306,copy,,1,1,1,0
+user_289,17:45,DEV-2470,read,,0,1,0,0
+user_290,23:47,DEV-7141,copy,,1,1,1,0
+user_291,15:17,PC-1234,read,,0,0,0,0
+user_292,22:06,Laptop-001,copy,,1,0,1,0
+user_293,13:45,PC-1234,read,,0,0,0,0
+user_294,07:01,PC-1234,read,,0,0,0,0
+user_295,13:45,PC-5678,delete,,0,0,1,0
+user_296,18:25,Laptop-001,write,,0,0,1,0
+user_297,11:40,PC-1234,read,,0,0,0,0
+user_298,13:41,DEV-3268,rename,,0,1,1,0
+user_299,06:24,DEV-8763,read,,0,1,0,0
+user_300,19:53,DEV-2315,write,,0,1,1,0
+user_301,22:11,PC-1234,rename,,1,0,1,0
+user_302,06:35,DEV-7527,delete,,0,1,1,0
+user_303,00:24,PC-5678,read,,1,0,0,0
+user_304,14:35,Laptop-001,rename,,0,0,1,0
+user_305,01:43,DEV-2739,rename,sc query,1,1,1,1
+user_306,11:36,PC-5678,write,,0,0,1,0
+user_307,18:00,DEV-5732,read,cmd.exe;powershell.exe,0,1,0,2
+user_308,20:50,DEV-6340,read,,0,1,0,0
+user_309,07:01,PC-5678,read,,0,0,0,0
+user_310,07:42,DEV-6622,read,,0,1,0,0
+user_311,17:25,DEV-9638,write,,0,1,1,0
+user_312,15:37,PC-5678,rename,,0,0,1,0
+user_313,13:45,PC-5678,delete,,0,0,1,0
+user_314,19:23,PC-5678,delete,,0,0,1,0
+user_315,08:57,DEV-7059,rename,,0,1,1,0
+user_316,21:46,DEV-1389,read,schtasks;powershell.exe,0,1,0,2
+user_317,02:54,DEV-4641,delete,powershell.exe,1,1,1,1
+user_318,06:31,DEV-5703,copy,,0,1,1,0
+user_319,22:04,DEV-5837,rename,,1,1,1,0
+user_320,09:19,DEV-1650,write,,0,1,1,0
+user_321,12:42,DEV-1904,read,,0,1,0,0
+user_322,21:55,DEV-6592,read,cmd.exe;whoami,0,1,0,2
+user_323,23:05,PC-1234,rename,net user,1,0,1,1
+user_324,09:53,PC-5678,delete,,0,0,1,0
+user_325,08:16,PC-5678,read,powershell.exe,0,0,0,1
+user_326,08:16,DEV-6290,delete,,0,1,1,0
+user_327,13:41,PC-1234,rename,whoami,0,0,1,1
+user_328,03:19,Laptop-001,write,,1,0,1,0
+user_329,12:58,Laptop-001,read,ipconfig;sc query,0,0,0,2
+user_330,09:24,Laptop-001,copy,,0,0,1,0
+user_331,15:42,PC-5678,delete,,0,0,1,0
+user_332,04:48,DEV-5215,copy,powershell.exe,1,1,1,1
+user_333,01:17,DEV-1129,write,,1,1,1,0
+user_334,02:44,PC-5678,delete,,1,0,1,0
+user_335,09:04,PC-5678,read,,0,0,0,0
+user_336,11:35,Laptop-001,write,,0,0,1,0
+user_337,15:36,DEV-8043,write,,0,1,1,0
+user_338,16:45,PC-1234,copy,,0,0,1,0
+user_339,15:37,Laptop-001,rename,,0,0,1,0
+user_340,05:13,PC-1234,read,,1,0,0,0
+user_341,09:55,Laptop-001,write,,0,0,1,0
+user_342,12:05,PC-1234,rename,,0,0,1,0
+user_343,11:46,Laptop-001,read,,0,0,0,0
+user_344,10:41,DEV-4399,write,,0,1,1,0
+user_345,21:55,Laptop-001,read,,0,0,0,0
+user_346,19:25,DEV-7826,copy,,0,1,1,0
+user_347,17:24,DEV-8859,rename,,0,1,1,0
+user_348,15:41,PC-5678,write,,0,0,1,0
+user_349,00:18,Laptop-001,read,,1,0,0,0
+user_350,15:38,DEV-3788,write,,0,1,1,0
+user_351,21:16,DEV-7253,delete,,0,1,1,0
+user_352,01:09,Laptop-001,copy,,1,0,1,0
+user_353,09:47,DEV-7217,delete,,0,1,1,0
+user_354,14:00,DEV-2766,read,,0,1,0,0
+user_355,01:21,Laptop-001,rename,,1,0,1,0
+user_356,00:26,PC-5678,read,,1,0,0,0
+user_357,20:44,PC-5678,copy,,0,0,1,0
+user_358,09:20,Laptop-001,delete,schtasks;cmd.exe,0,0,1,2
+user_359,07:11,Laptop-001,rename,,0,0,1,0
+user_360,02:07,Laptop-001,read,,1,0,0,0
+user_361,14:06,DEV-3780,delete,,0,1,1,0
+user_362,01:46,Laptop-001,delete,,1,0,1,0
+user_363,11:39,DEV-5872,copy,powershell.exe;net user,0,1,1,2
+user_364,15:11,PC-1234,copy,,0,0,1,0
+user_365,17:21,DEV-7045,read,,0,1,0,0
+user_366,06:44,DEV-8926,copy,whoami;ipconfig,0,1,1,2
+user_367,17:40,Laptop-001,rename,powershell.exe;ipconfig,0,0,1,2
+user_368,09:38,PC-5678,rename,,0,0,1,0
+user_369,21:58,PC-1234,write,,0,0,1,0
+user_370,23:17,PC-1234,delete,net user;schtasks,1,0,1,2
+user_371,18:57,DEV-1376,rename,,0,1,1,0
+user_372,14:58,PC-1234,copy,,0,0,1,0
+user_373,11:02,DEV-4353,delete,,0,1,1,0
+user_374,22:57,DEV-2069,delete,,1,1,1,0
+user_375,09:03,PC-5678,copy,,0,0,1,0
+user_376,23:08,Laptop-001,rename,schtasks,1,0,1,1
+user_377,21:47,Laptop-001,read,,0,0,0,0
+user_378,04:41,Laptop-001,write,net user;cmd.exe,1,0,1,2
+user_379,08:14,DEV-3239,write,sc query,0,1,1,1
+user_380,12:44,Laptop-001,copy,,0,0,1,0
+user_381,00:32,DEV-5653,write,,1,1,1,0
+user_382,06:24,DEV-2892,write,,0,1,1,0
+user_383,20:35,DEV-1955,rename,,0,1,1,0
+user_384,19:50,DEV-8841,copy,,0,1,1,0
+user_385,18:43,Laptop-001,write,,0,0,1,0
+user_386,01:04,DEV-6774,rename,sc query;powershell.exe,1,1,1,2
+user_387,11:48,PC-5678,write,,0,0,1,0
+user_388,13:10,DEV-2952,delete,schtasks;cmd.exe,0,1,1,2
+user_389,05:16,DEV-4666,read,net user,1,1,0,1
+user_390,15:58,PC-1234,write,powershell.exe,0,0,1,1
+user_391,13:17,DEV-6821,rename,,0,1,1,0
+user_392,03:43,PC-1234,read,,1,0,0,0
+user_393,06:07,DEV-2481,rename,sc query;whoami,0,1,1,2
+user_394,00:24,Laptop-001,rename,schtasks;net user,1,0,1,2
+user_395,18:24,Laptop-001,copy,,0,0,1,0
+user_396,01:02,PC-5678,write,sc query,1,0,1,1
+user_397,15:38,PC-1234,rename,,0,0,1,0
+user_398,18:35,PC-1234,rename,net user,0,0,1,1
+user_399,20:52,DEV-1375,read,,0,1,0,0
+user_400,13:36,DEV-6278,copy,,0,1,1,0
+user_401,14:08,DEV-7957,copy,net user;schtasks,0,1,1,2
+user_402,16:40,PC-5678,copy,,0,0,1,0
+user_403,23:46,DEV-2184,write,,1,1,1,0
+user_404,05:07,Laptop-001,read,sc query,1,0,0,1
+user_405,00:36,DEV-3926,write,,1,1,1,0
+user_406,14:59,Laptop-001,write,,0,0,1,0
+user_407,16:09,PC-1234,write,net user;ipconfig,0,0,1,2
+user_408,11:17,PC-1234,rename,sc query;schtasks,0,0,1,2
+user_409,10:03,DEV-4692,write,schtasks,0,1,1,1
+user_410,16:22,PC-1234,delete,,0,0,1,0
+user_411,22:58,PC-1234,read,,1,0,0,0
+user_412,07:43,PC-1234,read,,0,0,0,0
+user_413,07:28,DEV-6501,rename,,0,1,1,0
+user_414,02:11,DEV-2146,read,sc query,1,1,0,1
+user_415,14:13,DEV-4448,copy,,0,1,1,0
+user_416,05:46,DEV-5665,write,,1,1,1,0
+user_417,18:11,PC-1234,rename,schtasks;sc query,0,0,1,2
+user_418,08:20,Laptop-001,rename,,0,0,1,0
+user_419,10:32,Laptop-001,delete,powershell.exe,0,0,1,1
+user_420,08:47,DEV-7846,delete,,0,1,1,0
+user_421,17:35,DEV-1908,rename,,0,1,1,0
+user_422,11:00,DEV-1915,copy,,0,1,1,0
+user_423,06:30,PC-5678,copy,,0,0,1,0
+user_424,19:23,Laptop-001,read,,0,0,0,0
+user_425,12:26,DEV-1798,write,sc query,0,1,1,1
+user_426,13:45,Laptop-001,write,,0,0,1,0
+user_427,23:38,DEV-5995,write,,1,1,1,0
+user_428,00:54,Laptop-001,copy,cmd.exe;schtasks,1,0,1,2
+user_429,02:19,PC-1234,copy,,1,0,1,0
+user_430,22:20,PC-5678,rename,schtasks,1,0,1,1
+user_431,09:11,Laptop-001,write,,0,0,1,0
+user_432,04:55,PC-1234,copy,,1,0,1,0
+user_433,06:04,PC-1234,rename,net user,0,0,1,1
+user_434,01:27,Laptop-001,rename,powershell.exe;schtasks,1,0,1,2
+user_435,18:51,DEV-2689,delete,whoami;schtasks,0,1,1,2
+user_436,14:19,PC-5678,write,,0,0,1,0
+user_437,05:59,PC-1234,read,,1,0,0,0
+user_438,09:14,PC-5678,rename,,0,0,1,0
+user_439,09:35,PC-1234,copy,,0,0,1,0
+user_440,20:36,PC-1234,delete,,0,0,1,0
+user_441,18:14,PC-5678,delete,,0,0,1,0
+user_442,03:21,Laptop-001,copy,,1,0,1,0
+user_443,11:16,PC-5678,write,,0,0,1,0
+user_444,05:06,PC-1234,copy,schtasks,1,0,1,1
+user_445,11:27,Laptop-001,write,,0,0,1,0
+user_446,08:51,PC-1234,copy,,0,0,1,0
+user_447,08:12,Laptop-001,rename,net user,0,0,1,1
+user_448,01:55,DEV-1465,copy,,1,1,1,0
+user_449,04:24,DEV-1646,rename,,1,1,1,0
+user_450,07:45,PC-1234,delete,,0,0,1,0
+user_451,01:34,Laptop-001,delete,,1,0,1,0
+user_452,03:51,DEV-7079,delete,,1,1,1,0
+user_453,09:56,DEV-5304,delete,,0,1,1,0
+user_454,09:30,PC-5678,copy,,0,0,1,0
+user_455,05:27,DEV-1287,delete,,1,1,1,0
+user_456,02:58,PC-5678,rename,,1,0,1,0
+user_457,20:26,DEV-2354,write,,0,1,1,0
+user_458,06:16,Laptop-001,rename,,0,0,1,0
+user_459,12:24,Laptop-001,delete,,0,0,1,0
+user_460,03:20,DEV-7392,write,powershell.exe,1,1,1,1
+user_461,02:43,PC-1234,copy,,1,0,1,0
+user_462,07:56,PC-1234,delete,sc query,0,0,1,1
+user_463,14:01,Laptop-001,rename,,0,0,1,0
+user_464,19:23,Laptop-001,write,,0,0,1,0
+user_465,20:57,DEV-7524,rename,,0,1,1,0
+user_466,03:23,Laptop-001,write,,1,0,1,0
+user_467,02:25,PC-1234,delete,cmd.exe,1,0,1,1
+user_468,08:48,Laptop-001,rename,,0,0,1,0
+user_469,14:32,DEV-4290,rename,schtasks;powershell.exe,0,1,1,2
+user_470,03:05,PC-5678,copy,,1,0,1,0
+user_471,17:59,PC-5678,read,powershell.exe;net user,0,0,0,2
+user_472,05:27,DEV-4867,rename,,1,1,1,0
+user_473,07:14,DEV-2973,write,,0,1,1,0
+user_474,18:35,PC-1234,write,,0,0,1,0
+user_475,05:33,PC-1234,rename,,1,0,1,0
+user_476,04:39,PC-5678,write,,1,0,1,0
+user_477,13:49,DEV-5686,read,,0,1,0,0
+user_478,11:04,PC-1234,read,,0,0,0,0
+user_479,03:50,PC-5678,delete,,1,0,1,0
+user_480,20:16,PC-1234,copy,,0,0,1,0
+user_481,10:13,PC-5678,delete,,0,0,1,0
+user_482,19:41,PC-1234,rename,powershell.exe;net user,0,0,1,2
+user_483,05:37,PC-1234,rename,,1,0,1,0
+user_484,11:45,Laptop-001,copy,powershell.exe;sc query,0,0,1,2
+user_485,02:36,DEV-7655,copy,,1,1,1,0
+user_486,18:45,PC-5678,write,,0,0,1,0
+user_487,06:27,PC-1234,rename,,0,0,1,0
+user_488,05:59,DEV-7134,write,,1,1,1,0
+user_489,02:14,DEV-3227,copy,,1,1,1,0
+user_490,00:04,DEV-8792,rename,schtasks,1,1,1,1
+user_491,01:12,Laptop-001,copy,powershell.exe,1,0,1,1
+user_492,06:31,DEV-7887,copy,powershell.exe,0,1,1,1
+user_493,08:10,DEV-9024,write,,0,1,1,0
+user_494,06:53,PC-1234,write,,0,0,1,0
+user_495,01:52,PC-5678,copy,,1,0,1,0
+user_496,19:17,PC-5678,rename,whoami;sc query,0,0,1,2
+user_497,21:38,PC-5678,delete,net user;schtasks,0,0,1,2
+user_498,08:42,Laptop-001,rename,,0,0,1,0
+user_499,00:41,PC-5678,rename,,1,0,1,0
+user_500,15:21,DEV-7936,write,schtasks;cmd.exe,0,1,1,2
